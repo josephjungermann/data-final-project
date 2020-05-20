@@ -28,6 +28,8 @@ h1 {
 
 #header-image {
     width: 100%;
+    max-width: 900px;
+    display: block;
     margin: 0 auto;
     padding-bottom: 10px;
 }
